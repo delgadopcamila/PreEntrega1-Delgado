@@ -1,0 +1,10 @@
+.item-list-container {
+  padding: 20px;
+  text-align: center;
+}
+
+.item-list-greeting {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 2rem;
+  color: #ffffff;
+}

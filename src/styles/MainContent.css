@@ -1,0 +1,25 @@
+.main-content {
+    text-align: center;
+    padding: 50px;
+    background-color: #1a1a1a;
+    color: #e0e0e0; 
+  }
+  
+  .welcome-text {
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 2rem;
+    color: #e0e0e0; 
+    margin-bottom: 20px;
+  }
+  
+  .brand-name {
+    font-family: 'Press Start 2P', cursive; 
+    color: #00ff99;
+  }
+  
+  .main-description {
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 1.2rem; 
+    color: #e0e0e0; 
+  }
+  

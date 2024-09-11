@@ -1,0 +1,42 @@
+.gamer-navbar {
+  background-color: #2e2e2e; 
+  border-bottom: 5px solid #00ff99; 
+  padding: 10px 30px; 
+}
+
+.gamer-brand {
+  color: #00ff99;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 2rem; 
+  font-weight: normal; 
+  text-transform: uppercase; 
+}
+
+.gamer-link {
+  color: #e0e0e0;
+  font-family: 'Montserrat', sans-serif; 
+  font-size: 1.2rem;
+  margin-right: 20px;
+}
+
+.gamer-link:hover {
+  color: #1e90ff; 
+  transition: color 0.2s ease-in-out;
+}
+
+
+
+@media (max-width: 768px) {
+  .gamer-navbar {
+    padding: 0 10px; 
+  }
+
+  .gamer-link {
+    font-size: 1rem;
+    margin-right: 10px;
+  }
+
+  .cart-widget {
+    margin-left: 10px; 
+  }
+}
